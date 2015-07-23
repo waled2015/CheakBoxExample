@@ -12,6 +12,7 @@ import android.widget.CheckBox;
 
 public class MainActivity extends ActionBarActivity {
 
+    // waleed
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
